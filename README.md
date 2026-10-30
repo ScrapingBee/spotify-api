@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="spotify-api" />
+    <img src="https://github.com/user-attachments/assets/54d7edf9-c352-4a04-8023-1a76e412fdaf" alt="spotify-api" />
   </a>
 </p>
+
+
 
 [![checks](https://github.com/ScrapingBee/spotify-api/workflows/checks/badge.svg)](https://github.com/ScrapingBee/spotify-api/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/spotify-api.svg)](LICENSE)
